@@ -1,0 +1,12 @@
+.user-profile-bgc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	position: absolute;
+	background-color: #362c2c ;
+	height: 80%;
+	width: 50%;
+	border-radius: 500px 60px 300px 100px;
+	backdrop-filter: blur(280px);
+}
