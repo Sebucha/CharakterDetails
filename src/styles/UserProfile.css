@@ -1,0 +1,9 @@
+.user-profile-bgc {
+	display: contents;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	width: 70%;
+	height: 80%;
+}
